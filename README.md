@@ -3,7 +3,7 @@ Your README file should be as good as your project itself.
 Make your project stand out look professional by at least including
 the following elements in your README:
 + **Project Title:** the name of your project
-+ Description: This is an extremely important component of the README.
++ **Description:** This is an extremely important component of the README.
     You should describe the main purpose of your project. Answer questions like
     “*why did you build this project?*” and “*what problem(s) does it solve?*”.
     It also helps to include your motivations for the project and what you learned from it.
